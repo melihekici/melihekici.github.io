@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.826fac20.chunk.css",
-    "main.js": "/my-app/static/js/main.1c6d3be1.chunk.js",
-    "main.js.map": "/my-app/static/js/main.1c6d3be1.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.287a4e60.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.287a4e60.js.map",
-    "static/js/2.445984a2.chunk.js": "/my-app/static/js/2.445984a2.chunk.js",
-    "static/js/2.445984a2.chunk.js.map": "/my-app/static/js/2.445984a2.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.826fac20.chunk.css.map": "/my-app/static/css/main.826fac20.chunk.css.map",
-    "static/js/2.445984a2.chunk.js.LICENSE.txt": "/my-app/static/js/2.445984a2.chunk.js.LICENSE.txt",
-    "static/media/LinkedinJobScrapper.9683f810.JPG": "/my-app/static/media/LinkedinJobScrapper.9683f810.JPG",
-    "static/media/LinkedinJobScrapper2.785e1566.JPG": "/my-app/static/media/LinkedinJobScrapper2.785e1566.JPG",
-    "static/media/Python Developer.0d6af737.jpg": "/my-app/static/media/Python Developer.0d6af737.jpg",
-    "static/media/p2.9aafefd7.png": "/my-app/static/media/p2.9aafefd7.png"
+    "main.css": "/portfolio/static/css/main.826fac20.chunk.css",
+    "main.js": "/portfolio/static/js/main.1c6d3be1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1c6d3be1.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.968dc5af.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.968dc5af.js.map",
+    "static/js/2.445984a2.chunk.js": "/portfolio/static/js/2.445984a2.chunk.js",
+    "static/js/2.445984a2.chunk.js.map": "/portfolio/static/js/2.445984a2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.826fac20.chunk.css.map": "/portfolio/static/css/main.826fac20.chunk.css.map",
+    "static/js/2.445984a2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.445984a2.chunk.js.LICENSE.txt",
+    "static/media/LinkedinJobScrapper.9683f810.JPG": "/portfolio/static/media/LinkedinJobScrapper.9683f810.JPG",
+    "static/media/LinkedinJobScrapper2.785e1566.JPG": "/portfolio/static/media/LinkedinJobScrapper2.785e1566.JPG",
+    "static/media/Python Developer.0d6af737.jpg": "/portfolio/static/media/Python Developer.0d6af737.jpg",
+    "static/media/p2.9aafefd7.png": "/portfolio/static/media/p2.9aafefd7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.287a4e60.js",
+    "static/js/runtime-main.968dc5af.js",
     "static/js/2.445984a2.chunk.js",
     "static/css/main.826fac20.chunk.css",
     "static/js/main.1c6d3be1.chunk.js"
